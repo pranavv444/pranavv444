@@ -1,6 +1,10 @@
-# 💫 About Me:
-I'm a 20-year-old tech enthusiast currently pursuing a B.Tech at Gyan Ganga Institute of Technology and Science. I’m passionate about exploring new technologies and stay on the lookout for emerging trends in the tech industry. My curiosity drives me to continuously learn and adapt, seeking out opportunities to expand my knowledge and skills. Excited about the future and the endless possibilities it holds, I’m eager to dive into new challenges and innovations that come my way.
+🚀 As a dedicated MERN stack developer, I thrive in building dynamic full-stack web and mobile applications using MongoDB, Express, React, and Node.js. I focus on delivering robust, scalable, and user-friendly solutions.
 
+👨‍💻 My experience spans both front-end and back-end development, giving me a well-rounded perspective on designing, developing, and deploying high-quality applications.
+
+💻 With strong proficiency in JavaScript, my passion for coding and problem-solving fuels my drive to create efficient and innovative solutions.
+
+📚 I’m constantly expanding my knowledge by exploring new technologies and staying on top of industry trends. Outside of coding, I enjoy reading about the latest tech advancements and participating in local meetups and hackathons.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-soan-b67675214/) 
