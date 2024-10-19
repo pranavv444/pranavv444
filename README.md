@@ -65,9 +65,9 @@ As a dedicated MERN stack developer, I thrive in building dynamic full-stack web
   <a href="https://www.linkedin.com/in/pranav-soan-ps04/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100016242972905" target="_blank">
+<!--   <a href="https://www.facebook.com/profile.php?id=100016242972905" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg"/></code>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/_.pranaav.__/" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"/></code>
   </a>
