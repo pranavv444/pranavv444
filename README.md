@@ -9,7 +9,7 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
--  As a dedicated MERN stack developer, I thrive in building dynamic full-stack web and mobile applications using MongoDB, Express, React, and Node.js. I focus on delivering robust, scalable, and user-friendly solutions.
+As a dedicated MERN stack developer, I thrive in building dynamic full-stack web and mobile applications using MongoDB, Express, React, and Node.js. I focus on delivering robust, scalable, and user-friendly solutions.
 
 👨‍💻 My experience spans both front-end and back-end development, giving me a well-rounded perspective on designing, developing, and deploying high-quality applications.
 
